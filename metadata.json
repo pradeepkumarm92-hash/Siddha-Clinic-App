@@ -1,0 +1,6 @@
+{
+  "name": "Siddha Clinic",
+  "description": "Offline Siddha clinic billing, prescription generator, medicine inventory manager, and patient record system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
